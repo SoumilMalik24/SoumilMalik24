@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" alt="Welcome to my profile" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Soumil Malik</h1>
+<h1 align="center">Hi , I'm Soumil Malik</h1>
 <p align="center">
   Passionate about ML & Data Science • Building end-to-end projects • Exploring MLOps & Deep Learning
 </p>
@@ -13,17 +13,8 @@
 
 <div align="center">
 
-## 🌱 What I'm Doing  
 
-</div>
-<p align="center">
-  🧠 Currently learning: <b>Deep Learning, Next.js</b><br>
-  🔭 Working on: <b>Spam Classifier, Fake News Detector</b><br>
-  🤝 Open to: <b>Collaborations on ML projects</b><br>
-  📫 Reach me: <a href="soumil4malik@example.com">soumil4malik@example.com</a>
-</p>
-
-<h2 align="center">🌐 Connect with Me</h2>
+<h3 align="center">Connect with Me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_HANDLE">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
@@ -36,7 +27,7 @@
   </a>
 </p>
 
-<h2 align="center">💻 Languages & Tools</h2>
+<h3 align="center">Languages & Tools</h2>
 <p align="center">
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
@@ -44,6 +35,9 @@
   <!-- Jupyter -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter Notebook"/>
 
+  <!-- Scikit-learn-->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
+  
   <!-- MySQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
 
@@ -58,35 +52,32 @@
 
   <!-- Docker -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  
+  <!-- AWS -->
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.64.0/files/dark/aws-color.png" width="40" height="40" alt="AWS"/>
+
+
+
 </p>
 
-<h2 align="center">🏆 Trophies</h2>
+<h3 align="center">Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SoumilMalik24&theme=radical&margin-w=10&margin-h=10&no-frame=true"/>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoumilMalik24&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumilMalik24&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SoumilMalik24&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<h2 align="center">📈 Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumilMalik24&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
-</p>
+<h2 align="center">GitHub Stats</h2>
 
 
-<!-- <p align="center">
-  📰 <b>Fake News Detection</b> — TF-IDF + Linear SVM → <a href="https://github.com/SoumilMalik24/fake-news-detection">Repo</a><br>
-  📱 <b>SMS Spam Classifier</b> — CountVectorizer + SVM; Streamlit demo → <a href="https://github.com/SoumilMalik24/sms-spam-classification">Repo</a><br>
-  🩺 <b>Diabetes Prediction</b> — Data cleaning + Model comparison → <a href="https://github.com/SoumilMalik24/diabetes-ml">Repo</a>
-</p> -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoumilMalik24&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoumilMalik24&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SoumilMalik24&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SoumilMalik24&theme=radical&utcOffset=5" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoumilMalik24&theme=radical" />
+</p>
 
 <p align="center">
   ⭐️ From <a href="https://github.com/SoumilMalik24">SoumilMalik24</a>
@@ -96,5 +87,4 @@
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Welcome to my profile" />
 </p>
 </p>
-
 
