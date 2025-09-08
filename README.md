@@ -16,7 +16,7 @@
 
 <h3 align="center">Connect with Me</h2>
 <p align="center">
-  <a href="www.linkedin.com/in/soumilmalik">
+  <a href="https://www.linkedin.com/in/soumilmalik/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://www.instagram.com/soummilmalik/">
