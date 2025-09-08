@@ -16,10 +16,10 @@
 
 <h3 align="center">Connect with Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_HANDLE">
+  <a href="www.linkedin.com/in/soumilmalik">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://instagram.com/YOUR_HANDLE">
+  <a href="https://www.instagram.com/soummilmalik/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://github.com/SoumilMalik24">
