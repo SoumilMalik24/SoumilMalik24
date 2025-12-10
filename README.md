@@ -37,12 +37,18 @@
 
   <!-- Scikit-learn-->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
+  <!-- PyTorch -->
+  <img src="https://github.com/user-attachments/assets/eab47bcd-0e77-48f7-b2df-50062002d519" width="40" height="40" alt="PyTorch"/>
+  <!-- TensorFlow -->
+  <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" width="40" height="40" alt="TensorFlow"/>
   
   <!-- MySQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
 
   <!-- MongoDB -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <!-- HuggingFace -->
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/huggingface-color.png" width="40" height="40" alt="HuggingFace"/>
 
   <!-- DVC -->
   <img src="https://imgs.search.brave.com/lxSHtW3ZlAIHf9dfy1pGndX2QH5MCPvbsuW2PeuViRs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9h/L2FmL0RhdGFfVmVy/c2lvbl9Db250cm9s/Ll9PZmZpY2lhbF9M/b2dvX2J5X0l0ZXJh/dGl2ZS5haS5wbmc" width="40" height="40" alt="DVC"/>
