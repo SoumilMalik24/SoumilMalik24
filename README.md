@@ -66,10 +66,10 @@
 
 </p>
 
-<h3 align="center">Trophies</h2>
+<!-- <h3 align="center">Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SoumilMalik24&theme=radical&margin-w=10&margin-h=10&no-frame=true"/>
-</p>
+</p> -->
 
 <h2 align="center">GitHub Stats</h2>
 
